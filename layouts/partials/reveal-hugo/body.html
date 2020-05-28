@@ -1,0 +1,32 @@
+
+
+<div class="line top"></div>
+<div class="line bottom"></div>
+<div class="line left"></div>
+<div class="line right"></div>
+
+
+
+<div id="logo">
+  <img id="logo2" src="{{ .Param "logo.src" }}" alt="{{ .Param "logo.alt" }}">
+</div>
+
+<!-- <img id="logo" src="{{ .Param "logo.src" }}" alt="{{ .Param "logo.alt" }}"> -->
+
+<style>
+  #logo2 {
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    width: 150px;
+    /* height: 100px; */
+  }
+  #logo3 {
+    position: absolute;
+    top: 20px;
+    /* left: -20px; */
+    right: 20px;
+    width: 150px;
+    /* height: 80px */
+  }
+</style>
