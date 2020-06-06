@@ -16,8 +16,8 @@ src = "/images/koaala.png"
 alt = "CODEKOALA.TECH"
 +++
 
-![](/images/nodejs/icon.png)
-# Node.js
+![](/images/reactjs/logo.png)
+# Reactjs
 #### Code Snippets
 
 ---

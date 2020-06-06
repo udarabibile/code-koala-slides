@@ -32,9 +32,11 @@
 
 :root {
   --main-border-color: #00008B;
-  --main-background-color: #FFFFFF;
+  --main-background-color: #FFD700;
   --main-font-color: #00008B; /*#FFD700*/
-  --main-link-color: #000000; 
+  --main-link-color: #000000;
+  --main-progress-color: #FFD700;
+  --main-navigation-color: #00008B;
 }
 
 
@@ -308,9 +310,10 @@ body {
  *********************************************/
 .reveal section img {
   margin: 15px 0px;
-  background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #363636;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+  /* background: rgba(255, 255, 255, 0.12); */
+  /* border: 4px solid #363636; */
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); */
+}
 
 .reveal section img.plain {
   border: 0;
@@ -330,7 +333,7 @@ body {
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #FF4081; }
+  color: var(--main-navigation-color); }
 
 /*********************************************
  * PROGRESS BAR
@@ -346,4 +349,4 @@ body {
 
 .reveal .progress {
   z-index: 1000;
-  color: #FF80A1; }
+  color: var(--main-progress-color); }

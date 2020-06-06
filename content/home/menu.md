@@ -9,15 +9,13 @@ weight = 8
 ## [Docker](/docker)
 
 - [Basics of containers and images](/docker/basics)
-- [Content for this presentation](https://github.com/dzello/reveal-hugo/tree/master/exampleSite)
+- [Connect to remote host](/docker/connect-to-remote-host)
 
 ---
 
 ## Git
 
-- [Reveal.js](https://revealjs.com/)
-- [Hugo docs](https://gohugo.io/)
-- [Hugo output format docs](https://gohugo.io/templates/output-formats/)
+- [Git object database](https://revealjs.com/)
 
 ---
 
@@ -25,6 +23,12 @@ weight = 8
 
 - Deploy to [Basics](https://netlify.com/)
 - Edit with [Forestry](https://forestry.io/)
+
+---
+
+## Reactjs
+
+- Deploy in the server [Basics](https://netlify.com/)
 
 ---
 

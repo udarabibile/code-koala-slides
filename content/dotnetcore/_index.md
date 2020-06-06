@@ -16,8 +16,8 @@ src = "/images/koaala.png"
 alt = "CODEKOALA.TECH"
 +++
 
-![](/images/nodejs/icon.png)
-# Node.js
+![](/images/dotnet/icon.png)
+# .NET Core
 #### Code Snippets
 
 ---

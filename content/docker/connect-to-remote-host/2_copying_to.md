@@ -7,7 +7,7 @@ weight = 2
 # Copying to Docker Container
 
 
-![](/images/docker/docker-copy.png)
+![](/images/docker/docker-copy-to.png)
 
 ---
 
